@@ -16,7 +16,7 @@ The goal of this project is to perform data analytics on Uber data using various
 3. BigQuery
 4. Looker Studio
 
-- Data Pipeine Tool - (Mage)[https://www.mage.ai/]
+- Data Pipeine Tool - [Mage](https://www.mage.ai/)
 
 
 ## Dataset Used
