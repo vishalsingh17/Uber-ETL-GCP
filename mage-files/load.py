@@ -16,7 +16,6 @@ def export_data_to_big_query(data, **kwargs) -> None:
 
     Docs: https://docs.mage.ai/design/data-loading#bigquery
 
-    
     """
     config_path = path.join(get_repo_path(), 'io_config.yaml')
     config_profile = 'default'
