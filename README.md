@@ -31,4 +31,3 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="data_model.jpeg">
-
